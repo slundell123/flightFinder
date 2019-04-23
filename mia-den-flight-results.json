@@ -1,0 +1,167 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "106.30",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 4 hours 29 minutes",
+        "airline": "American Airlines ",
+        "plane": "Boeing 737-800",
+        "timings": "Miami FL (MIA-Miami Intl.) 10:00pm Denver CO (DEN-Denver Intl.) 12:29am - ",
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "118.30",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 4 hours 32 minutes",
+        "airline": "American Airlines ",
+        "plane": "Boeing 737-800",
+        "timings": "Miami FL (MIA-Miami Intl.) 7:00am Denver CO (DEN-Denver Intl.) 9:32am - ",
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "158.30",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 4 hours 25 minutes",
+        "airline": "United ",
+        "plane": "Airbus A320",
+        "timings": "Miami FL (MIA-Miami Intl.) 3:20pm Denver CO (DEN-Denver Intl.) 5:45pm - ",
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "248.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 9 hours 6 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A321",
+        "timings": "Miami FL (MIA-Miami Intl.) 6:00am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 7:56am - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 11:47am Denver CO (DEN-Denver Intl.) 1:06pm - ",
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "248.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 8 hours 6 minutes",
+        "airline": "Delta ",
+        "plane": "MDC MD90",
+        "timings": "Miami FL (MIA-Miami Intl.) 7:00am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 9:07am - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 11:47am Denver CO (DEN-Denver Intl.) 1:06pm - ",
+        "plane code": "M90"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "284.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 6 hours 2 minutes",
+        "airline": "Delta ",
+        "plane": "MDC MD90",
+        "timings": "Miami FL (MIA-Miami Intl.) 7:00am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 9:07am - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 9:48am Denver CO (DEN-Denver Intl.) 11:02am - ",
+        "plane code": "M90"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "284.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 6 hours 51 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A321",
+        "timings": "Miami FL (MIA-Miami Intl.) 8:15am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 10:10am - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 11:47am Denver CO (DEN-Denver Intl.) 1:06pm - ",
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "284.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 7 hours 2 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A321",
+        "timings": "Miami FL (MIA-Miami Intl.) 6:00am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 7:56am - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 9:48am Denver CO (DEN-Denver Intl.) 11:02am - ",
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "284.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 8 hours 19 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A321",
+        "timings": "Miami FL (MIA-Miami Intl.) 8:15am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 10:10am - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 1:21pm Denver CO (DEN-Denver Intl.) 2:34pm - ",
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "334.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 7 hours 40 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A320",
+        "timings": "Miami FL (MIA-Miami Intl.) 4:17pm Detroit MI (DTW-Detroit Metropolitan Wayne County) 7:26pm - Detroit MI (DTW-Detroit Metropolitan Wayne County) 8:44pm Denver CO (DEN-Denver Intl.) 9:57pm - ",
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "334.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 6 hours 53 minutes",
+        "airline": "Delta ",
+        "plane": "MDC MD90",
+        "timings": "Miami FL (MIA-Miami Intl.) 11:10am Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 1:09pm - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 2:46pm Denver CO (DEN-Denver Intl.) 4:03pm - ",
+        "plane code": "M90"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "334.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 5 hours 53 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A320",
+        "timings": "Miami FL (MIA-Miami Intl.) 12:10pm Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 2:09pm - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 2:46pm Denver CO (DEN-Denver Intl.) 4:03pm - ",
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "334.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 6 hours 46 minutes",
+        "airline": "Delta ",
+        "plane": "Airbus A320",
+        "timings": "Miami FL (MIA-Miami Intl.) 12:10pm Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 2:09pm - Atlanta GA (ATL-Hartsfield-Jackson Atlanta Intl.) 3:37pm Denver CO (DEN-Denver Intl.) 4:56pm - ",
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "575.00",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 6 hours 28 minutes",
+        "airline": "United ",
+        "plane": "Boeing 737-800",
+        "timings": "Miami FL (MIA-Miami Intl.) 6:55pm Houston TX (IAH-George Bush Intercontinental) 8:50pm - Houston TX (IAH-George Bush Intercontinental) 9:55pm Denver CO (DEN-Denver Intl.) 11:23pm - ",
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "83.29",
+        "departure": " Miami",
+        "arrival": " Denver",
+        "flight duration": "0 days 4 hours 34 minutes",
+        "airline": "Frontier Airlines ",
+        "plane": "Airbus A320",
+        "timings": "Miami FL (MIA-Miami Intl.) 10:13pm Denver CO (DEN-Denver Intl.) 12:47am - ",
+        "plane code": "320"
+    }
+]
